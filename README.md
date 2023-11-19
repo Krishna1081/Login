@@ -28,7 +28,7 @@ This is a simple MERN stack project that implements user authentication with log
    npm start
 # Project Demo
 
-Check out a demo of the project:
+Check out a demo of the project: Click the image to view the video
 
 [![Project Demo](https://img.youtube.com/vi/q0meQcihLeQ/0.jpg)](https://www.youtube.com/watch?v=q0meQcihLeQ)
 
