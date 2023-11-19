@@ -30,5 +30,5 @@ This is a simple MERN stack project that implements user authentication with log
 
 Check out a demo of the project:
 
-<iframe width="560" height="315" src="https://youtu.be/q0meQcihLeQ" frameborder="0" allowfullscreen></iframe>
+[![Project Demo](https://img.youtube.com/vi/q0meQcihLeQ/0.jpg)](https://www.youtube.com/watch?v=q0meQcihLeQ)
 
